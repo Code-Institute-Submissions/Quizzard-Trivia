@@ -13,7 +13,7 @@
 
 </head>
 
-<body onload="NextQuestion(0)">
+<body onload="NextQuestion(0)"> <!--note to self will be using internal js to load questions-->
     <section id="bg-image">
         <h1 id="title">Quizzard Trivia</h1>
 
@@ -51,35 +51,35 @@
                 <span>
                     <input type="radio" id="option-one" name="option" class="radio" value="optionA">
                     <label for="option-one" class="option" id="option-one-label"></label>
-                    <!--id change to choice A on JS -->
+                   
                 </span>
               
 
                 <span>
                     <input type="radio" id="option-two" name="option" class="radio" value="optionB">
                     <label for="option-two" class="option" id="option-two-label"></label>
-                    <!--id change to choice B on JS -->
+                    
                 </span>
               
 
                 <span>
                     <input type="radio" id="option-three" name="option" class="radio" value="optionC">
                     <label for="option-three" class="option" id="option-three-label"></label>
-                    <!--id change to choice C on JS -->
+                   
                 </span>
               
 
                 <span>
                     <input type="radio" id="option-four" name="option" class="radio" value="optionD">
                     <label for="option-four" class="option" id="option-four-label"></label>
-                    <!--id change to choice D on JS -->
+                   
                 </span>
 
 
             </div>
 
             <div class="next-button-box">
-                <button onclick="handleNextQuestion()">Next Question</button>
+                <button onclick="handleNextQuestion()">Next Question</button> <!--will be using internal js to click to the next question-->
             </div>
 
         </div>
@@ -99,12 +99,14 @@
                 </div>
               
                 <div class="modal-button-container">
-                    <button onclick="closeScoreModal()">Continue</button>
+                    <button>Continue</button>
                 </div>
               
             </div>
         </div>
     </section>
+    <script src="assets/js/questions.js"></script>
+    <script src="assets/js/quizzard.js"></script>
 
 
 </body>
