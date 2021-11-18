@@ -21,7 +21,7 @@ body {
 }
 
 #bg-image {
-    background:url("/assets/images/harry-3.png");
+    background:url("../images/harry-3.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
