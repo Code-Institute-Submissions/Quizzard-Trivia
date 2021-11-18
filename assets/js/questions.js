@@ -1,4 +1,4 @@
-//Added harry Potter questions to the array 
+//Quizzard Questions array
 let questions = [
     {
       question: "What is the name of Harry Potter's owl?",
@@ -232,7 +232,7 @@ let questions = [
       optionD: "Hungarian Horntail",
       correctOption: "optionB"  //Q25
   
-    }
+    },
   
     {
       question: "In the game of Quidditch, how many possible fouls are there?",
