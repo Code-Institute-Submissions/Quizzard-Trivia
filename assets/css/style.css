@@ -20,6 +20,13 @@ body {
   
 }
 
+#bg-image {
+    background:url("/assets/images/harry-3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 section {
     width: 100%;
     min-height: 100vh;
@@ -27,10 +34,6 @@ section {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background:url("/assets/images/harry-3.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
     
 }
 
