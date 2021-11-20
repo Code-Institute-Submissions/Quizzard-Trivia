@@ -14,17 +14,17 @@ function handleQuestions() {
 
 }
 //The variables that I will be using for my functions
-let questionNumber = 1
-let playerScore = 0  
-let wrongAttempt = 0 
-let indexNumber = 0
+let questionNumber = 1;
+let playerScore = 0;  
+let wrongAttempt = 0;
+let indexNumber = 0;
 
 // function for displaying next question in the array to dom
 function nextQuestion(index) {
     handleQuestions();
     let currentQuestion = shuffledQuestions[index];
-    document.getElementById("question-number").innerHTML = questionNumber
-    document.getElementById("player-score").innerHTML = playerScore
+    document.getElementById("question-number").innerHTML = questionNumber;
+    document.getElementById("player-score").innerHTML = playerScore;
     document.getElementById("display-question").innerHTML = currentQuestion.question;
     document.getElementById("option-one-label").innerHTML = currentQuestion.optionA;
     document.getElementById("option-two-label").innerHTML = currentQuestion.optionB;
