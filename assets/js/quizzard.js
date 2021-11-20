@@ -13,3 +13,8 @@ function handleQuestions() {
 
 
 }
+//The variables that I will be using for my functions
+let questionNumber = 1
+let playerScore = 0  
+let wrongAttempt = 0 
+let indexNumber = 0
