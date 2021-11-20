@@ -18,3 +18,7 @@ let questionNumber = 1
 let playerScore = 0  
 let wrongAttempt = 0 
 let indexNumber = 0
+
+function NextQuestion(index) {
+    
+}
