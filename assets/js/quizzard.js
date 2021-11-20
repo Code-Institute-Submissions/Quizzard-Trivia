@@ -88,7 +88,7 @@ function handleNextQuestion() {
             NextQuestion(indexNumber)
         }
         else {
-            handleEndGame()
+            handleEndGame() 
         }
         resetOptionBackground()
     }, 1000);
@@ -112,24 +112,24 @@ function unCheckRadioButtons() {
 
 // function for when all questions being answered
 function handleEndGame() {
-    let remark = null
-    let remarkColor = null
+    let remark = null;
+    let remarkColor = null;
 
     // condition check for player remark and remark color
-    if (playerScore <= 3) {
-        remark = "Bad Grades, Keep Practicing."
+    if (playerScore <= 6) {
+        remark = "Are you sure you have heard of Harry Potter?, Keep Practicing."
         remarkColor = "red"
     }
-    else if (playerScore >= 4 && playerScore < 7) {
-        remark = "Average Grades, You can do better."
+    else if (playerScore >= 7 && playerScore < 19) {
+        remark = "Definitely a Potterhead in the making, but you can do better."
         remarkColor = "orange"
     }
-    else if (playerScore >= 7) {
-        remark = "Excellent, Keep the good work going."
+    else if (playerScore >= 19) {
+        remark = "You are the Ulitmate Potterhead!, Dumbledore will be proud."
         remarkColor = "green"
         //remark changed to comment
     }
-    const playerGrade = (playerScore / 10) * 100
+    const playerGrade = (playerScore / 25) * 100
 
     //data to display to score board
     document.getElementById('remarks').innerHTML = remark
