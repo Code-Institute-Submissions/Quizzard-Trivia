@@ -1,4 +1,4 @@
-//Quizzard Questions array
+//Quizzard Questions object array for the storing my 50 questions
 let questions = [
     {
       question: "What is the name of Harry Potter's owl?",
