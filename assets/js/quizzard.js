@@ -102,7 +102,7 @@ function resetOptionBackground() {
     })
 }
 
-// unchecking all radio buttons for next question(can be done with map or foreach loop also)
+// unchecking all radio buttons for next question(I have use the for loop)
 function unCheckRadioButtons() {
     const options = document.getElementsByName("option");
     for (let i = 0; i < options.length; i++) {
