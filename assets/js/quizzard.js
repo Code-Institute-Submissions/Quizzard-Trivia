@@ -3,7 +3,7 @@ let shuffledQuestions = []; //empty array to hold shuffled selected questions
 function handleQuestions() {
     //function to shuffle and push 25 questions to shuffledQuestions array
     while (shuffledQuestions.length <= 24) {
-        const random = questions[Math.floor(Math.random() * questions.length)];
+        let random = questions[Math.floor(Math.random() * questions.length)];
         if (!shuffledQuestions.includes(random)) {
             shuffledQuestions.push(random);
 
@@ -42,39 +42,39 @@ function checkForAnswer() {
     options.forEach((option) => {
         if (option.value === currentQuestionAnswer) {
             //get's correct's radio input with correct answer
-            correctOption = option.labels[0].id
+            correctOption = option.labels[0].id;
         }
-    })
+    });
    
     //checking to make sure a radio input has been checked or an option being chosen
     if (options[0].checked === false && options[1].checked === false && options[2].checked === false && options[3].checked == false) {
-        document.getElementById('option-modal').style.display = "flex"
+        document.getElementById('option-modal').style.display = "flex";
     }
 
     //checking if checked radio button is same as answer
     options.forEach((option) => {
         if (option.checked === true && option.value === currentQuestionAnswer) {
-            document.getElementById(correctOption).style.backgroundColor = "green"
-            playerScore++
-            indexNumber++
+            document.getElementById(correctOption).style.backgroundColor = "green";
+            playerScore++;
+            indexNumber++;
             //set to delay question number till when next question loads
             setTimeout(() => {
-                questionNumber++
-            }, 1000)
+                questionNumber++;
+            }, 1000);
         }
 
         else if (option.checked && option.value !== currentQuestionAnswer) {
-            const wrongLabelId = option.labels[0].id
-            document.getElementById(wrongLabelId).style.backgroundColor = "red"
-            document.getElementById(correctOption).style.backgroundColor = "green"
-            wrongAttempt++
-            indexNumber++
+            const wrongLabelId = option.labels[0].id;
+            document.getElementById(wrongLabelId).style.backgroundColor = "red";
+            document.getElementById(correctOption).style.backgroundColor = "green";
+            wrongAttempt++;
+            indexNumber++;
             //set to delay question number till when next question loads
             setTimeout(() => {
-                questionNumber++
-            }, 1000)
+                questionNumber++;
+            }, 1000);
         }
-    })
+    });
 }
 
 
