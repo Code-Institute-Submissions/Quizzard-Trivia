@@ -80,17 +80,17 @@ function checkForAnswer() {
 
 //called when the next button is called
 function handleNextQuestion() {
-    checkForAnswer()
-    unCheckRadioButtons()
+    checkForAnswer();
+    unCheckRadioButtons();
     //delays next question displaying for a second
     setTimeout(() => {
         if (indexNumber <= 24) {
-            NextQuestion(indexNumber)
+            NextQuestion(indexNumber);
         }
         else {
-            handleEndGame() 
+            handleEndGame();
         }
-        resetOptionBackground()
+        resetOptionBackground();
     }, 1000);
 }
 
@@ -98,8 +98,8 @@ function handleNextQuestion() {
 function resetOptionBackground() {
     const options = document.getElementsByName("option");
     options.forEach((option) => {
-        document.getElementById(option.labels[0].id).style.backgroundColor = ""
-    })
+        document.getElementById(option.labels[0].id).style.backgroundColor = "";
+    });
 }
 
 // unchecking all radio buttons for next question(I have use the for loop)
@@ -117,27 +117,27 @@ function handleEndGame() {
 
     // condition check for player remark and remark color
     if (playerScore <= 6) {
-        remark = "Are you sure you have heard of Harry Potter?, Keep Practicing."
-        remarkColor = "red"
+        remark = "Are you sure you have heard of Harry Potter?, Keep Practicing.";
+        remarkColor = "red";
     }
     else if (playerScore >= 7 && playerScore < 19) {
-        remark = "Definitely a Potterhead in the making, but you can do better."
-        remarkColor = "orange"
+        remark = "Definitely a Potterhead in the making, but you can do better.";
+        remarkColor = "orange";
     }
     else if (playerScore >= 19) {
-        remark = "You are the Ulitmate Potterhead!, Dumbledore will be proud."
-        remarkColor = "green"
+        remark = "You are the Ulitmate Potterhead!, Dumbledore will be proud.";
+        remarkColor = "green";
         //remark changed to comment 
     }
-    const playerGrade = (playerScore / 25) * 100
+    const playerGrade = (playerScore / 25) * 100;
 
     //data to display to score board
-    document.getElementById('remarks').innerHTML = remark
-    document.getElementById('remarks').style.color = remarkColor
-    document.getElementById('grade-percentage').innerHTML = playerGrade
-    document.getElementById('wrong-answers').innerHTML = wrongAttempt
-    document.getElementById('right-answers').innerHTML = playerScore
-    document.getElementById('score-modal').style.display = "flex"
+    document.getElementById('remarks').innerHTML = remark;
+    document.getElementById('remarks').style.color = remarkColor;
+    document.getElementById('grade-percentage').innerHTML = playerGrade;
+    document.getElementById('wrong-answers').innerHTML = wrongAttempt;
+    document.getElementById('right-answers').innerHTML = playerScore;
+    document.getElementById('score-modal').style.display = "flex";
 
 }
 
