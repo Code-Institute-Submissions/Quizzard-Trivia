@@ -34,5 +34,9 @@ function nextQuestion(index) {
 }
 
 function checkForAnswer() {
-    
+    const currentQuestion = shuffledQuestions[indexNumber];
+    //gets current Question 
+    const currentQuestionAnswer = currentQuestion.correctOption //gets current Question's answer
+
+
 }
