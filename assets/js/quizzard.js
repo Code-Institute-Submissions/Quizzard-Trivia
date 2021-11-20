@@ -127,7 +127,7 @@ function handleEndGame() {
     else if (playerScore >= 19) {
         remark = "You are the Ulitmate Potterhead!, Dumbledore will be proud."
         remarkColor = "green"
-        //remark changed to comment
+        //remark changed to comment 
     }
     const playerGrade = (playerScore / 25) * 100
 
