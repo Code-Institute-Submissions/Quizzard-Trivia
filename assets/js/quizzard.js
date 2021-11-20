@@ -32,3 +32,7 @@ function nextQuestion(index) {
     document.getElementById("option-four-label").innerHTML = currentQuestion.optionD;
 
 }
+
+function checkForAnswer() {
+    
+}
