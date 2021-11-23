@@ -454,3 +454,28 @@ p {
     transition: .5s;
 }
 /*CSS styling of my Quizzard Trivia Quiz home page & instructions ends here*/
+
+/*Media queries for my Quizzard home page*/
+
+@media(min-width : 300px) and (max-width : 350px){
+    .content {
+        opacity: 0;
+        visibility: hidden;
+        width: 300px;
+        height: 350px;
+        background: whitesmoke;
+        border-radius: 3px;
+        box-shadow: 10px 10px 10px;
+        transition: .3s ease-in;
+    }
+
+    .header h1 {
+        color: white;
+        padding-left: 40px;
+        font-size: 0.5rem;
+        
+    }
+
+
+
+}
