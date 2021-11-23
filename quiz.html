@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The ultimate quiz for massive Harry Potter fans around the world">
+    <meta name="keywords" content="Potterheads,Harry Potter,Quiz,Hogwarts,Grifindor">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+        integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Quizzard Trivia</title>
+
+</head>
+
+<body onload="NextQuestion(0)"> <!-- will be using internal js to load questions-->
+    <section id="bg-image">
+        <h1 id="title">Quizzard Trivia</h1>
+
+        <div class="game-quiz-box">
+          
+            <div class="game-info-box">
+                <h1>Score : <span id="player-score">0</span> </h1>
+                <h1> Question : <span id="question-number"></span> / 25</h1>
+                <div>
+                  <h1>Timer:</h1>
+                </div>
+                
+            </div>
+
+            <div class="game-question-box">
+                <h1 id="display-question"></h1>
+            </div>
+
+            <div class="game-options-box">
+              
+               <div class="choice-box" id="option-modal">
+                 
+                    <div class="choice-content-box">
+                         <h1>Please choose An answer</h1>
+                         <h2>Many Thanks</h2>
+                      
+                         <div class="modal-button-container">
+                            <button onclick="closeOptionModal()">Continue</button> <!--Will be using internal JS-->
+                        </div>
+                      
+                    </div>
+                 
+               </div>
+                 <!--4 choice boxes -->
+                <span>
+                    <input type="radio" id="option-one" name="option" class="radio" value="optionA">
+                    <label for="option-one" class="option" id="option-one-label"></label>
+                    <!--id change to choice A on JS -->
+                </span>
+              
+
+                <span>
+                    <input type="radio" id="option-two" name="option" class="radio" value="optionB">
+                    <label for="option-two" class="option" id="option-two-label"></label>
+                    <!--id change to choice B on JS -->
+                </span>
+              
+
+                <span>
+                    <input type="radio" id="option-three" name="option" class="radio" value="optionC">
+                    <label for="option-three" class="option" id="option-three-label"></label>
+                    <!--id change to choice C on JS -->
+                </span>
+              
+
+                <span>
+                    <input type="radio" id="option-four" name="option" class="radio" value="optionD">
+                    <label for="option-four" class="option" id="option-four-label"></label>
+                    <!--id change to choice D on JS -->
+                </span>
+
+
+            </div>
+
+            <div class="next-button-box">
+                <button onclick="handleNextQuestion()">Next Question</button> <!--Will be using internal JS-->
+            </div>
+
+        </div>
+        <!--  when quiz ends -->
+        <div class="results-container" id="score-modal">
+          
+            <div class="results-content-container">
+              
+                <h1>Congratulations, Quiz Completed.</h1>
+              
+                <div class="rating">
+                    <p>Questions : 25</p>
+                    <p>Wrong Answers : <span id="wrong-answers"></span></p>
+                    <p>Right Answers : <span id="right-answers"></span></p>
+                    <p>Grade : <span id="grade-percentage"></span>%</p>
+                    <p ><span id="remarks"></span></p>
+                </div>
+              
+                <div class="modal-button-container">
+                    <button onclick="closeScoreModal()">Continue</button> <!--Will be using internal JS-->
+                </div>
+              
+            </div>
+        </div>
+    </section>
+
+    <script src="assets/js/questions.js"></script>
+    <script src="assets/js/quizzard.js"></script>
+
+
+</body>
+
+</html>
