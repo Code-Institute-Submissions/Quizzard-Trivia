@@ -2,7 +2,7 @@ let shuffledQuestions = []; //empty array to hold shuffled selected questions
 
 function handleQuestions() {
     //function to shuffle and push 25 questions to shuffledQuestions array
-    while (shuffledQuestions.length <= 24) {
+    while (shuffledQuestions.length <= 29) {
         let random = questions[Math.floor(Math.random() * questions.length)];
         if (!shuffledQuestions.includes(random)) {
             shuffledQuestions.push(random);
@@ -84,7 +84,7 @@ function handleNextQuestion() {
     unCheckRadioButtons();
     //delays next question displaying for a second
     setTimeout(() => {
-        if (indexNumber <= 24) {
+        if (indexNumber <= 29) {
             NextQuestion(indexNumber);
         }
         else {
@@ -116,15 +116,15 @@ function handleEndGame() {
     let remarkColor = null;
 
     // condition check for player remark and remark color
-    if (playerScore <= 6) {
+    if (playerScore <= 8) {
         remark = "Are you sure you have heard of Harry Potter?, Keep Practicing.";
         remarkColor = "red";
     }
-    else if (playerScore >= 7 && playerScore < 19) {
+    else if (playerScore >= 9 && playerScore < 22) {
         remark = "Definitely a Potterhead in the making, but you can do better.";
         remarkColor = "orange";
     }
-    else if (playerScore >= 19) {
+    else if (playerScore >= 22) {
         remark = "You are the Ulitmate Potterhead!, Dumbledore will be proud.";
         remarkColor = "green";
         //remark changed to comment 
