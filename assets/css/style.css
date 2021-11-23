@@ -343,13 +343,11 @@ input[type=radio]:checked ~ .option {
 /*Home page coding was referenced from Coding Napal*/
 
 #home-image {
+    height: auto;
     background: url("../images/harry-5.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    
-    
-    
     
 }
 
