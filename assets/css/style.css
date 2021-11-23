@@ -468,14 +468,12 @@ p {
     }
     header h1 {
         color: white;
-        padding-left: 5px;
+        padding-left: 10px;
         
     }
 
     .fa-hat-wizard {
         font-size: 30px;
-        margin: 20px 0 0 140px ;
-        padding-left: 20px;
         color: tomato;
         text-align: center;
     
@@ -506,8 +504,6 @@ p {
 
     .fa-hat-wizard {
         font-size: 30px;
-        margin: 20px 0 0 140px ;
-        padding-left: 20px;
         color: tomato;
         text-align: center;
     
