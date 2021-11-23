@@ -459,8 +459,6 @@ p {
 
 @media(min-width : 300px) and (max-width : 350px){
     .content {
-        opacity: 0;
-        visibility: hidden;
         width: 300px;
         height: 350px;
         background: whitesmoke;
