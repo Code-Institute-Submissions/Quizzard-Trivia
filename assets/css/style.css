@@ -342,8 +342,8 @@ input[type=radio]:checked ~ .option {
 /*CSS styling for my home page starts here*/
 /*Home page coding was referenced from Coding Napal*/
 
-#home-bg {
-    background: url("../images/hp-image.jpg");
+.home-bg {
+    
     
     
     
