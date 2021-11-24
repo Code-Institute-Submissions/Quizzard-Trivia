@@ -253,7 +253,7 @@ input[type=radio]:checked ~ .option {
     justify-content: center;
 }
 
-.modal-button-container button a {
+.modal-button-container button  {
     width: 10rem;
     height: 2rem;
     background: none;
@@ -269,7 +269,7 @@ input[type=radio]:checked ~ .option {
     background-color: goldenrod;
 }
 
-.modal-button-container a  {
+ a  {
     width: 10rem;
     height: 2rem;
     background: none;
@@ -283,7 +283,7 @@ input[type=radio]:checked ~ .option {
 
 }
 
-.modal-button-container a:hover {
+a a:hover {
     background-color: goldenrod;
 
 }
