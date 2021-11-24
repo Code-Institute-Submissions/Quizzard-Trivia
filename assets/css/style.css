@@ -269,7 +269,7 @@ input[type=radio]:checked ~ .option {
     background-color: goldenrod;
 }
 
-.exit-btn a {
+a .exit-btn  {
     width: 10rem;
     height: 2rem;
     background: none;
