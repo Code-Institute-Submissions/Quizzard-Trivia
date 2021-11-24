@@ -449,7 +449,7 @@ p {
     background: black;
 }
 
-.close-btn a {
+.close-btn  {
     position: absolute;
     bottom: 10px;
     right: 22px;
