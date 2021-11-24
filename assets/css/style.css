@@ -269,7 +269,7 @@ input[type=radio]:checked ~ .option {
     background-color: goldenrod;
 }
 
-.exit-btn {
+.modal-button-container.exit-btn {
     width: 10rem;
     height: 2rem;
     background: none;
@@ -283,7 +283,7 @@ input[type=radio]:checked ~ .option {
 
 }
 
-.exit-btn a:hover {
+.modal-button-container.exit-btn a:hover {
     background-color: goldenrod;
 
 }
