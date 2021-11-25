@@ -338,7 +338,12 @@ input[type=radio]:checked ~ .option {
         
       }
 
-      #home-image {
+      
+
+      
+}
+@media screen and (max-width: 600px) {
+    #home-image {
         height: 100%;
         background: url("../images/harry-4.jpg");
         background-repeat: no-repeat;
@@ -347,7 +352,6 @@ input[type=radio]:checked ~ .option {
         
     }
 
-      
 }
 
 
@@ -383,14 +387,7 @@ input[type=radio]:checked ~ .option {
         font-size: 1.2rem;
     }
 
-    #home-image {
-        height: 100%;
-        background: url("../images/harry-4.jpg");
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center;
-        
-    }
+    
 
 }
 
