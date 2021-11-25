@@ -364,6 +364,47 @@ input[type=radio]:checked ~ .option {
     }
 }
 
+/* Medium devices (landscape tablets, 768px and up) */
+
+@media only screen and (min-width: 768px) {
+    .game-quiz-box{
+        width: 90%;
+        height: 80vh;
+     }
+     .game-info-box h1{
+        font-size: 0.8rem;
+     }
+ 
+     .game-question-box{
+        height: 3rem;
+     }
+     .game-question-box h1{
+       font-size: 0.9rem;
+    }
+ 
+    .game-options-box span{
+        width: 90%;
+        height: 1.5rem;
+        margin-top: 2px;
+    }
+    .game-options-box span label{
+        font-size: 0.5rem;
+    }
+    button {
+      margin-top: 2px;
+    }
+    .choice-content-box{
+        width: 90%;
+        height: 15rem;
+    }
+    
+    .choice-content-box h1{
+        font-size: 1.2rem;
+    }
+}
+
+}
+
 /*CSS styling for my home page starts here*/
 /*Home page coding was referenced and inspired from Youtuber Coding Nepal*/
 
