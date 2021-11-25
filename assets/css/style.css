@@ -312,8 +312,8 @@ input[type=radio]:checked ~ .option {
     }
  
     .game-options-box span{
-        width: 90%;
-        height: 1.5rem;
+        width: 45%;
+        height: 1rem;
         margin-top: 4px;
     }
     .game-options-box span label{
@@ -330,6 +330,10 @@ input[type=radio]:checked ~ .option {
     .choice-content-box h1{
         font-size: 1.2rem;
     }
+}
+
+span {
+    height: fit-content;
 }
 
 /* Media queries for my quiz from 351px up to large mobile and laptop devices up to 1600px*/
@@ -364,44 +368,9 @@ input[type=radio]:checked ~ .option {
     }
 }
 
-/* Medium devices (landscape tablets, 768px and up) */
 
-@media only screen and (min-width: 768px) {
-    .game-quiz-box{
-        width: 90%;
-        height: 80vh;
-     }
-     .game-info-box h1{
-        font-size: 0.8rem;
-     }
- 
-     .game-question-box{
-        height: 3rem;
-     }
-     .game-question-box h1{
-       font-size: 0.9rem;
-    }
- 
-    .game-options-box span{
-        width: 90%;
-        height: 1.5rem;
-        margin-top: 2px;
-    }
-    .game-options-box span label{
-        font-size: 0.5rem;
-    }
-    button {
-      margin-top: 2px;
-    }
-    .choice-content-box{
-        width: 90%;
-        height: 15rem;
-    }
-    
-    .choice-content-box h1{
-        font-size: 1.2rem;
-    }
-}
+
+
 
 
 
