@@ -116,19 +116,15 @@ function handleEndGame() {
     let remarkColor = null;
 
     // condition check for player remark and remark color
-    if (playerScore <= 5) {
-        remark = "Are you sure you have heard of Harry Potter?";
+    if (playerScore <= 10) {
+        remark = "Are you sure you have heard of Harry Potter?, Keep Practicing.";
         remarkColor = "red";
     }
-    else if (playerScore >= 6 && playerScore < 14) {
-        remark = "Don't worry Hermione will be your study partner,practice makes perfect!";
-        remarkColor = "yellow";
-    }
-    else if (playerScore >= 15 && playerScore < 22) {
-        remark = "Definitely a Potterhead in the making, but you can do better."
+    else if (playerScore >= 11 && playerScore < 22) {
+        remark = "Definitely a Potterhead in the making, but you can do better.";
         remarkColor = "orange";
     }
-    else if (playerScore >= 23) {
+    else if (playerScore >= 22) {
         remark = "You are the Ulitmate Potterhead!, Dumbledore will be proud.";
         remarkColor = "gold";
         //remark changed to comment 
