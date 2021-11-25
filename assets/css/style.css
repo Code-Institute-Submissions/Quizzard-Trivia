@@ -332,9 +332,7 @@ input[type=radio]:checked ~ .option {
     }
 }
 
-span {
-    height: fit-content;
-}
+
 
 /* Media queries for my quiz from 351px up to large mobile and laptop devices up to 1600px*/
 
@@ -348,16 +346,16 @@ span {
     }
 
     .game-question-box{
-        height: 8rem;
+        height: 6rem;
     }
 
     .game-question-box h1{
-        font-size: 0.9rem;
+        font-size: 0.5rem;
      }
 
     .game-options-box span{
         width: 90%;
-        margin-top: 4px;
+        
     }
     .choice-content-box{
         width: 90%;
