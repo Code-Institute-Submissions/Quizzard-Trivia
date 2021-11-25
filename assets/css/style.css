@@ -330,6 +330,13 @@ input[type=radio]:checked ~ .option {
     .choice-content-box h1{
         font-size: 1.2rem;
     }
+
+    #title {
+        font-size: 2rem;
+        color:rgb(146, 1, 26);
+        text-align: center;
+        
+      }
 }
 
 
