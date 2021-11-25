@@ -129,7 +129,7 @@ function handleEndGame() {
         remarkColor = "gold";
         
     }
-    const playerGrade = (playerScore / 30) * 100;
+    const playerGrade = Math.floor((playerScore / 30) * 100);
 
     //data to display to score board
     document.getElementById('remarks').innerHTML = remark;
