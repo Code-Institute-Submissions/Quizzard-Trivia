@@ -346,16 +346,16 @@ input[type=radio]:checked ~ .option {
     }
 
     .game-question-box{
-        height: 6rem;
+        height: 8rem;
     }
 
     .game-question-box h1{
-        font-size: 0.5rem;
+        font-size: 0.9rem;
      }
 
     .game-options-box span{
         width: 90%;
-        
+        margin-top: 3px;
     }
     .choice-content-box{
         width: 90%;
