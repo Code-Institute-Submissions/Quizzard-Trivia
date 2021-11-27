@@ -58,4 +58,4 @@ The game hopes to attract 3 main types of players/users
 | Color                    | Hex                                                                |
 | ------------------------ | ------------------------------------------------------------------ |
 | Dark Slate Blue     |    ![#333399](assets/images/color-1.JPG) #333399  |
-| Black Panther Gray  |    ![#424242](assets/images/)            #424242  |
+| Black Panther Gray  |    ![#424242](assets/images/color-2.JPG) #424242  |
