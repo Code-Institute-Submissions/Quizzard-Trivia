@@ -9,4 +9,7 @@ My approach for designing this quiz game application was to create it being mobi
 
 ![page mock up.](assets/images/quizzard-mock-up.JPG)
 
+---
+# Target Audience
+
 
