@@ -39,5 +39,6 @@ The game hopes to attract 3 main types of players/users
  - Used Java Script to create a quiz based on Harry Potter book series and film series.
  - Used HTML to structure the layout of the quiz.
  - Used CSS to design a Harry Potter themed quiz that is asthetically pleasing on the eye for the player.
+ - Tested the quiz with friends and fans of the Harry Potter book and film series.
 
 
