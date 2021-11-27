@@ -41,4 +41,12 @@ The game hopes to attract 3 main types of players/users
  - Used CSS to design a Harry Potter themed quiz that is asthetically pleasing on the eye for the player.
  - Tested the quiz with friends and fans of the Harry Potter book and film series.
 
+ ----
+ # User Experience (UX)
+
+* ## User Stories
+  * As a user, I would want to be able to see my scores.
+  * As a user, I would like to be able to see how many questions that I have got right or wrong at the end of the quiz.
+  * As a user, I would like to play the game again once the quiz has ended.
+
 
