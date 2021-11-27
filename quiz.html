@@ -14,8 +14,8 @@
 
 </head>
 
-<body onload="NextQuestion(0)">
-    <!-- will be using internal js to load questions-->
+<body>
+    
     <section id="bg-image">
         <h1 id="title">Quizzard Trivia</h1>
 
@@ -42,8 +42,8 @@
 
                         <div class="modal-button-container">
 
-                            <button onclick="closeOptionModal()">Continue</button>
-                            <!--Will be using internal JS-->
+                            <button id="closeModal">Continue</button>
+                            
 
                         </div>
 
@@ -82,8 +82,8 @@
             </div>
 
             <div class="next-button-box">
-                <button onclick="handleNextQuestion()">Next Question</button>
-                <!--Will be using internal JS-->
+                <button id="nextQuestion">Next Question</button>
+                
             </div>
 
         </div>
@@ -105,8 +105,8 @@
                 <!--result box ends-->
 
                 <div>
-                    <!--Will be using internal JS-->
-                    <a href="index.html" onclick="closeScoreModal()" class="exit-btn">Exit Game</a>
+                   
+                    <a href="index.html" id="closeScore" class="exit-btn">Exit Game</a>
 
 
                 </div>
