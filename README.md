@@ -49,4 +49,10 @@ The game hopes to attract 3 main types of players/users
   * As a user, I would like to be able to see how many questions that I have got right or wrong at the end of the quiz.
   * As a user, I would like to play the game again once the quiz has ended.
 
+  ---
+  # Design
+
+  + ## Colour Scheme
+   The colours that are choosen are predominantly made up of red,white,blue, green and gold. This colour scheme was choosen because they are the from the 4 house colours of the Harry Potter book series. Colours was only taken from 3 out of the 4 House colours from Harry Potter because Yellow and Brown will ruin the design flow of the whole quiz game.
+
 
