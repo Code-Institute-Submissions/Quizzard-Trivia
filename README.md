@@ -7,4 +7,6 @@ Quizzard Trivia is a web based application designed using Java Script. Quizzard 
 
 My approach for designing this quiz game application was to create it being mobile responsive first and for the game being accessible and easily played on through a range of different devices.
 
+![page mock up.](assets/images/quizzard-mock-up.JPG)
+
 
