@@ -350,7 +350,7 @@ input[type=radio]:checked ~ .option {
 
 /* Media queries for my quiz from 351px up to large mobile and laptop devices up to 1600px*/
 
-@media(min-width : 351px) and (max-width : 800px){
+@media(min-width : 351px) and (max-width : 480px){
    .game-quiz-box{
        width: 80%;
        height: 80vh;
@@ -382,6 +382,43 @@ input[type=radio]:checked ~ .option {
     
 
 }
+
+
+@media(min-width : 481px) and (max-width : 768px){
+
+    .game-quiz-box{
+        width: 80%;
+        height: 80vh;
+     }
+     .game-info-box h1{
+         font-size: 0.9rem;
+     }
+ 
+     .game-question-box{
+         height: 8rem;
+         width: 60%;
+     }
+ 
+     .game-question-box h1{
+         font-size: 0.9rem;
+      }
+ 
+     .game-options-box span{
+         width: 45%;
+         margin-top: 3px;
+     }
+     .choice-content-box{
+         width: 90%;
+         height: 25rem;
+     }
+     .choice-content-box h1{
+         font-size: 1.2rem;
+     }
+ 
+     
+ 
+ }
+
 
 
 
