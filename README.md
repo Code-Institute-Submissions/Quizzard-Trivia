@@ -12,4 +12,20 @@ My approach for designing this quiz game application was to create it being mobi
 ---
 # Target Audience
 
+Since readers young and old were first introduced to the 'boy who lived' -under the stairs at 4 Privet Drive -  fans have been spoilt with seven books and eight films.
+
+It has since become one of the world's most-loved fictional worlds with grown adults still awaiting their letter from Hogwarts.
+
+Many of us grew up alongside Harry, Ron and Hermione, glued to the books and eagerly awaiting the cinema releases, while younger generations are only just discovering the magical world beyond Platform 9 3/4.
+
+Most of us will have seen every movie multiple times like me, and we all know someone who thinks they’re a Potter expert.
+
+The quiz was designed in the mind for massive Harry Potter fans who are part of the worldwide fandom community.
+
+The game hopes to attract 3 main types of players/users
+
+1. Players who are massive Harry potter fans who are known as "Potterheads" in the fandom community.
+2. Players who relatively new to Harry Potter and has just read all the books or watched the films. They just want to test their knowledge on how much they know so far.
+3. Players who enjoyed reading the books and watching the films but they aren't considered fans but they will like to test their Harry Potter knowledge in general.
+
 
