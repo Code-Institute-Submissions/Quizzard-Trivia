@@ -26,11 +26,13 @@ The game hopes to attract 3 main types of players/users
 
 1. Players who are massive Harry potter fans who are known as "Potterheads" in the fandom community.
 2. Players who relatively new to Harry Potter and has just read all the books or watched the films. They just want to test their knowledge on how much they know so far.
-3. Players who enjoyed reading the books and watching the films but they aren't considered fans but they will like to test their Harry Potter knowledge in general.
+3. Players who enjoyed reading the books and watching the films but they aren't considered fans but they will like to take up the challenge and test their Harry Potter knowledge.
 
 ---
 # Goals
  - Create the ultimate fun and interactive quiz that the fans of the Harry Potter franchise will enjoy playing.
- - 
+ - Design a quiz that is asthetically pleasing and in theme for the player.
+ - To make the quiz very challenging so that it will test the fans knowlege to the limit.
+ - Design the quiz so that it is responsive across all mobile and tablet devices.
 
 
