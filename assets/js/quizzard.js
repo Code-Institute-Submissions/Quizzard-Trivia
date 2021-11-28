@@ -157,7 +157,7 @@ function closeOptionModal() {
     document.getElementById('option-modal').style.display = "none";
 }
 
-/* Wait for page load */
+/* Wait for page load & eventlistners*/
 window.addEventListener('load', function () {
     const closeModalButton = this.document.getElementById('closeModal');
     const nextQuestionButton = this.document.getElementById('nextQuestion');
