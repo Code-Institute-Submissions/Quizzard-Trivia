@@ -88,5 +88,9 @@ Through out the quiz game application 3 Harry Potter themed imagery was used. Th
   [View Tablet Wireframes](assets/images/tablet-wireframes.jpg)
   * Mobile
   [View Mobile Wireframes](assets/images/mobile-wireframes.jpg)
+
+---
+# Features
+## Existing Features
  
 
