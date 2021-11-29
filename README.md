@@ -69,3 +69,4 @@ The game hopes to attract 3 main types of players/users
 | Light Grey          |    ![#d3d3d3](assets/images/color-10.JPG) #d3d3d3 |
 | Goldenrod           |    ![#daa520](assets/images/color-11.JPG) #daa520 |
 | Gold                |    ![#ffd700](assets/images/color-12.JPG) #ffd700 |
+| Colbalt Blue        |    ![#0047ab](assets/images/color-13.JPG) #0047ab |
