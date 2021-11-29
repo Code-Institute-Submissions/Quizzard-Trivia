@@ -77,3 +77,6 @@ The game hopes to attract 3 main types of players/users
 + ## Typography
 The Roboto font is the only font that is being used throughout the whole game application with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Roboto was choosen because the font has a clean,sleek look and has a high readability on the application for the players.
 
++ ## Imagery
+Through out the quiz game application 3 Harry Potter themed imagery was used. They were chosen to envoke an nostalgic response for different generations of Harry Potter fans. When users see the images from Harry Potter they will instinctively know that they will be playing a Harry Potter quiz game without pressing play.
+
