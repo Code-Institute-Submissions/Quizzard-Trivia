@@ -71,3 +71,4 @@ The game hopes to attract 3 main types of players/users
 | Gold                |    ![#ffd700](assets/images/color-12.JPG) #ffd700 |
 | Colbalt Blue        |    ![#0047ab](assets/images/color-13.JPG) #0047ab |
 | Green               |    ![#008000](assets/images/color-14.JPG) #008000 |
+| Orange              |    ![#ffa500](assets/images/color-15.JPG) #ffa500 |
