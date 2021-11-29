@@ -59,3 +59,5 @@ The game hopes to attract 3 main types of players/users
 | ------------------------ | ------------------------------------------------------------------ |
 | Dark Slate Blue     |    ![#333399](assets/images/color-1.JPG) #333399  |
 | Black Panther Gray  |    ![#424242](assets/images/color-2.JPG) #424242  |
+| Sun Visor           |    ![#92011a](assets/images/color-3.JPG) #92011a  |
+| Black Panther Gray  |    ![#424242](assets/images/color-4.JPG) #424242  |
