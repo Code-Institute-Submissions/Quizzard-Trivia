@@ -92,5 +92,15 @@ Through out the quiz game application 3 Harry Potter themed imagery was used. Th
 ---
 # Features
 ## Existing Features
+
+* **Home Page**
+  * Quizzard button
+  This page contains a straight forward singular button with the word "Quizzard". The button, when pressed should direct them to the next step of the application. This should be very self expanatory for the player so no instructions needed to tell them what they should do when they see a button in the middle of the screen
+
+  ![Quizzard Button](assets/images/quizzard-button.JPG)
+  * Instructions Box
+  
+  
+
  
 
