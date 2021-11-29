@@ -101,6 +101,8 @@ Through out the quiz game application 3 Harry Potter themed imagery was used. Th
   * Instructions Box
   When the player/user clicks onto the quizzard button this will then direct them to a set of simple instructions on many questions the quiz consists of and how to play the game. We can not assume that everyone has played a quiz before, and that they are familar with the format. Instructions of the game will be provided as with any web based game application.
   ![Instruction Box](assets/images/instruction-box.JPG)
+
+* **Quiz Game Page**
   
   
 
