@@ -53,7 +53,7 @@ The game hopes to attract 3 main types of players/users
   # Design
 
   + ## Colour Scheme
-   The colours that are choosen are predominantly made up of different variations of red,white,blue, green and gold. This colour scheme was choosen because they are the from the 4 house colours of the Harry Potter book series.Colours was only taken from 3 out of the 4 House colours from Harry Potter because Yellow and Brown will ruin the design flow of the whole quiz game.
+   The colours that are choosen are predominantly made up of different variations of red,white,blue, green and gold. This colour scheme was choosen because they are the from the 4 house colours of the Harry Potter book series.Colours was only taken from 3 out of the 4 House colours from Harry Potter because Yellow and Brown will ruin the design flow of the whole quiz game. Other
 
 | Color                    | Hex                                                                |
 | ------------------------ | ------------------------------------------------------------------ |
@@ -61,3 +61,6 @@ The game hopes to attract 3 main types of players/users
 | Black Panther Gray  |    ![#424242](assets/images/color-2.JPG) #424242  |
 | Red                 |    ![#92011a](assets/images/color-3.JPG) #92011a  |
 | Red                 |    ![#FF0000](assets/images/color-4.JPG) #FF0000  |
+| Black               |    ![#191919](assets/images/color-5.JPG) #191919  |
+| Vari                |    ![#](assets/images/color-4.JPG) #  |
+| Red                 |    ![#](assets/images/color-4.JPG) #  |
