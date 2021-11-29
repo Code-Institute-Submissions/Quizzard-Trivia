@@ -66,3 +66,5 @@ The game hopes to attract 3 main types of players/users
 | Cornsilk            |    ![#FFF8DC](assets/images/color-7.JPG) #FFF8DC  |
 | White               |    ![#FFFFFF](assets/images/color-8.JPG) #FFFFFF  |
 | Whitesmoke          |    ![#f5f5f5](assets/images/color-9.JPG) #f5f5f5  |
+| Light Grey          |    ![#d3d3d3](assets/images/color-10.JPG)#d3d3d3  |
+| Whitesmoke          |    ![#](assets/images/color-9.JPG) # |
