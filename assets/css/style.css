@@ -458,7 +458,7 @@ html {
     width: 160px;
     height: 50px;
     background: red;
-    border: 2px solid gold;
+    border: 2px solid #ffd700;
     color:black;
     text-align: center;
     font-size: 22px;
@@ -471,7 +471,7 @@ html {
 }
 
 .click-me:hover {
-    background: blueviolet;
+    background: #0047ab;
 
 }
 
