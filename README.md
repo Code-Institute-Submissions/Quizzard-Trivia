@@ -98,13 +98,16 @@ Through out the quiz game application 3 Harry Potter themed imagery was used. Th
   This page contains a straight forward singular button with the word "Quizzard". The button, when pressed should direct them to the next step of the application. This should be very self expanatory for the player so no instructions needed to tell them what they should do when they see a button in the middle of the screen
 
   ![Quizzard Button](assets/images/quizzard-button.JPG)
-  ![Instruction Box](assets/images/instruction-box.JPG)
+  
   * Instructions Box
   When the player/user clicks onto the quizzard button this will then direct them to a set of simple instructions on many questions the quiz consists of and how to play the game. We can not assume that everyone has played a quiz before, and that they are familar with the format. Instructions of the game will be provided as with any web based game application.
+
+  ![Instruction Box](assets/images/instruction-box.JPG)
   
 
 * **Quiz Game Page**
-![Instruction Box](assets/images/instruction-box.JPG)
+
+
   
   
 
