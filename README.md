@@ -104,6 +104,7 @@ Through out the quiz game application 3 Harry Potter themed imagery was used. Th
   
 
 * **Quiz Game Page**
+![Instruction Box](assets/images/instruction-box.JPG)
   
   
 
