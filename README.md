@@ -63,4 +63,4 @@ The game hopes to attract 3 main types of players/users
 | Red                 |    ![#FF0000](assets/images/color-4.JPG) #FF0000  |
 | Black               |    ![#191919](assets/images/color-5.JPG) #191919  |
 | black               |    ![#252525](assets/images/color-6.JPG) #252525  |
-| Red                 |    ![#](assets/images/color-4.JPG) #  |
+| Cornsilk            |    ![#FFF8DC](assets/images/color-7.JPG) #FFF8DC  |
