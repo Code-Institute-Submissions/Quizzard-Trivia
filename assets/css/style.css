@@ -129,7 +129,7 @@ input[type="radio"] {
 
 /*The styling for when the player chooses the answer that they want, once selected it will be gold*/
 input[type=radio]:checked ~ .option {
-	background: gold;
+	background: #FFD700;
 }
 
 .next-button-box{

@@ -68,3 +68,4 @@ The game hopes to attract 3 main types of players/users
 | Whitesmoke          |    ![#f5f5f5](assets/images/color-9.JPG) #f5f5f5  |
 | Light Grey          |    ![#d3d3d3](assets/images/color-10.JPG) #d3d3d3 |
 | Goldenrod           |    ![#daa520](assets/images/color-11.JPG) #daa520 |
+| Gold                |    ![#ffd700](assets/images/color-12.JPG) #ffd700 |
