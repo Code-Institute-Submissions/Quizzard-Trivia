@@ -72,3 +72,8 @@ The game hopes to attract 3 main types of players/users
 | Colbalt Blue        |    ![#0047ab](assets/images/color-13.JPG) #0047ab |
 | Green               |    ![#008000](assets/images/color-14.JPG) #008000 |
 | Orange              |    ![#ffa500](assets/images/color-15.JPG) #ffa500 |
+
+
++ ## Typography
+The Roboto font is the only font that is being used throughout the whole game application with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Roboto was choosen because the font has a clean,sleek look and has a high readability on the application for the players.
+
