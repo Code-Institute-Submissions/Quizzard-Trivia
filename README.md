@@ -62,5 +62,5 @@ The game hopes to attract 3 main types of players/users
 | Red                 |    ![#92011a](assets/images/color-3.JPG) #92011a  |
 | Red                 |    ![#FF0000](assets/images/color-4.JPG) #FF0000  |
 | Black               |    ![#191919](assets/images/color-5.JPG) #191919  |
-| Vari                |    ![#](assets/images/color-4.JPG) #  |
+| black               |    ![#252525](assets/images/color-6.JPG) #252525  |
 | Red                 |    ![#](assets/images/color-4.JPG) #  |
