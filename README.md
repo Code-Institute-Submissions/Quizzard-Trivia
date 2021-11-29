@@ -80,3 +80,13 @@ The Roboto font is the only font that is being used throughout the whole game ap
 + ## Imagery
 Through out the quiz game application 3 Harry Potter themed imagery was used. They were chosen to envoke an nostalgic response for different generations of Harry Potter fans. When users see the images from Harry Potter they will instinctively know that they will be playing a Harry Potter quiz game without pressing play.
 
++ ## Wireframes
+
+  * Desktop
+  [View Desktop Wireframes](assets/images/desktop-wireframes.jpg)
+  * Tablet
+  [View Tablet Wireframes](assets/images/tablet-wireframes.jpg)
+  * Mobile
+  [View Mobile Wireframes](assets/images/mobile-wireframes.jpg)
+ 
+
