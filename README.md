@@ -223,6 +223,10 @@ The Java Script has also passed the JShint web link with no errors. Only 6 warni
   * [Lighthouse scores for index.html ](assets/images/desktop-index.JPG)
   * [Lighthouse scores for quiz.html ](assets/images/desktop-quiz.JPG)
 
++ **Mobile**
+  * [Lighthouse scores for index.html ](assets/images/lighthouse-index.JPG)
+  * [Lighthouse scores for quiz.html ](assets/images/lighthouse-quiz.JPG)
+
 
 * ## Responsiveness
   The site was tested with the Chrome Dev tool and the website Responsinator to determine how well it would look on various tablet and mobile devices.
