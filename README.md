@@ -217,7 +217,8 @@ The Java Script has also passed the JShint web link with no errors. Only 6 warni
   + [JSHint Results ](assets/images/JSHint.JPG)
   
 
-  
+* ## Lighthouse
+   * The site was tested for both desktop and mobile. The scores are given via Google Lighthouse report. Multiple tests was conducted, ranging from Performance to SEO levels.
 
 
 
