@@ -139,6 +139,8 @@ Wireframes were made for both desktop and mobile design. The structure and layou
 
   * When the player completes the quiz a results box will pop up explaining how many questions that they got right or wrong. They will also be graded by a percentage score and with a comment.
 
+  ![Results Box](assets/images/results-box.JPG)
+
   
 
 
