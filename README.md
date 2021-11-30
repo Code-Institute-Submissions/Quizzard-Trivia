@@ -118,7 +118,11 @@ Wireframes were made for both desktop and mobile design. The structure and layou
 
   * Centrally located on the game quiz area is where a set of 30 randomised questions will be displayed for the player.
 
+  ![Quiz Questions](assets/images/quiz-questions.JPG)
+
   * underneath the question display the associated  answer options will be shown for the player. They will have one in four answer options to choose from.
+
+  ![Option Boxes](assets/images/option-boxes.JPG)
 
   * The players scores will be displayed on the top left of the quiz game area. Each time the player gets a question correct the scores will be increament by one point.
 
@@ -145,6 +149,12 @@ Wireframes were made for both desktop and mobile design. The structure and layou
   ![Results Box](assets/images/results-box.JPG)
 
 * **Features left to implement**
+
+  There are quite a few features that I like to implement in the future for this game application:
+  * A username feature will be added so that the quiz game will feel more personalised to the player.
+  * A high Score table will be added so that players can compete to try and beat each other scores.
+  * A timer function will be added to the quiz to only give the player X amount of time to do each question. This will give the player more pressure and less time to think about their answers which makes it even more competive and exciting.
+  
 
   
 
