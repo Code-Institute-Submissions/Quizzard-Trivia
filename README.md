@@ -97,6 +97,8 @@ Wireframes were made for both desktop and mobile design. The structure and layou
 * **Heading**
   * I wanted to design a name that will stand out from the crowd of millions of Harry Potter quiz games that are currently available online, so I came up with the name "Quizzard Trivia".The made up name is a play on the word of Quiz and Wizard.
 
+![Quiz game name](assets/images/quiz-game-name.JPG)
+
 * **Home Page**
   * Quizzard button
   This page contains a straight forward singular button with the word "Quizzard". The button, when pressed should direct them to the next step of the application. This should be very self expanatory for the player so no instructions needed to tell them what they should do when they see a button in the middle of the screen.
