@@ -264,7 +264,7 @@ The Java Script has also passed the JShint web link with no errors. Only 6 warni
 # Credit 
 * **code**
   * For my instruction pop up box I have taken inspiration from a YouTuber channel called Coding Nepal.
-  Coding referenced on this video was partially used but amended to my own needs for my site.
+  Coding referenced on this video was partially used but amended to my own needs for my own application.
   [View ](https://www.youtube.com/watch?v=OkJYtw1mPeU&list=PL96xVQjLpfmVlCPuER2Ip1FTiuVpHQvYM&index=43)
 
 
