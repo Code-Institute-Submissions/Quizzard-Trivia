@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 /*Learnt to use rem from youtuber Kevin Powell*/
 *{
     margin: 0;
@@ -9,7 +11,7 @@
 
 
 body {
-    font-family: 'poppins', serif;
+    font-family: sans-serif;
     
 }
 
