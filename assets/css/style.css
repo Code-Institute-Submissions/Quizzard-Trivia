@@ -243,8 +243,12 @@ input[type=radio]:checked ~ .option {
     color: #FFFFFF;
     text-align: center;
 }
-.rating .red p {
+p.red {
     color: red;
+}
+
+p.green {
+    color: green;
 }
 
 .modal-button-container{
