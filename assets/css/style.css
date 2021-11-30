@@ -581,10 +581,9 @@ p {
         padding-left: 10px;
         
     }
-    .fa-times {
+    .fa-times:before  {
         position: absolute;
-        right: 20px;
-        top: 20px;
+        margin-top: 15px;
         color: white;
         font-size: 12px;
         cursor: pointer;
