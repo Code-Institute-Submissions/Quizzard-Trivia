@@ -186,14 +186,23 @@ Wireframes were made for both desktop and mobile design. The structure and layou
 
 ---
 # Testing
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project. During the validation process only 1 red error on W3C Markup incured and zero errors or warnings on W3C CSS. They have all been recified and fixed during the validation process.
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project. During the validation process only 1 red error on W3C Markup incured and zero errors with 13 warnings on W3C CSS. Only the W3C Markup has been recified and fixed during the validation process. As I needed to use the webkit extensions on my CSS
 * **Error**
   * I fixed this error by deleting the button element and using the anchor tag as a button.
   [View Error](assets/images/error.jpg)
 
+* **Warnings**
+  * I left the 13 warnings
+
+After recitying all the errors on my HTML page they are now free from any errors.
+
 The Java Script has also passed the JShint web link with no errors. Only 6 warnings has incurred when put through the process. The warnings that has incurred has something to do with the ES6 version of Java Script. Everything on the configuration panel has been ticked but the warnings still pop up.
 
 ![Java Script Warnings](assets/images/java-script-warning.JPG)
+
++ ## CSS 
+  * No errors or warnings were found when passing all the CSS codes through the Jigsaw W3C CSS Validator.
+  [W3C CSS Validator Results ](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjoycey83.github.io%2FQuizzard-Trivia%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
   
 
   
