@@ -253,12 +253,20 @@ The Java Script has also passed the JShint web link with no errors. Only 6 warni
   published site link.
   7. To confirm your deployment of your site it will be highlighted in a blue ribbon. when the site is live it will be highlighted in green.
   
-   * I have hosted my site on github pages, it can be accessed from the following url: 
+  8. I have hosted my site on github pages, it can be accessed from the following url: 
   https://joycey83.github.io/Quizzard-Trivia/
 * ## Forking the GitHub Repository  
   1. Log in to GitHub and locate the GitHub Repository that you want forked.
   2. Click on Settings. The button to the far right in the menu. Then locate the "Fork" Button on the settings page.
   3. A copy of the original repository will be now made and it will be in your GitHub account.
+
+---
+# Credit 
+* **code**
+  * For my instruction pop up box I have taken inspiration from a YouTuber channel called Coding Nepal.
+  Coding referenced on this video was partially used but amended to my own needs for my site.
+  [View ](https://www.youtube.com/watch?v=OkJYtw1mPeU&list=PL96xVQjLpfmVlCPuER2Ip1FTiuVpHQvYM&index=43)
+  
 
 
 
