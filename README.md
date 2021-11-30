@@ -211,6 +211,10 @@ The Java Script has also passed the JShint web link with no errors. Only 6 warni
   * No more errors were found when passing all the HTML codes through the W3C Markup Validator. Only 1 warning was found on both of the HTML pages.
   + [W3C Markup Validator index.html Results ](assets/images/validator-index.JPG)
   + [W3C Markup Validator quiz.html Results ](assets/images/validator-quiz.JPG)
+
++ ## Java Script
+  * No errors were found when passing the Java Script on the JSHint web link. Only 6 Warnings regarding the ES6 version pops up.
+  + [JSHint Results ](assets/images/JSHint.JPG)
   
 
   
