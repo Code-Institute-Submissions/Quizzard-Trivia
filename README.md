@@ -53,7 +53,7 @@ The game hopes to attract 3 main types of players/users
   # Design
 
   + ## Colour Scheme
-   The colours that are choosen are predominantly made up of different variations of red,white,blue, green and gold. This colour scheme was choosen because they are the from the 4 house colours of the Harry Potter book series.Colours was only taken from 3 out of the 4 House colours from Harry Potter because Yellow and Brown will ruin the design flow of the whole quiz game. Other
+   The colours that are choosen are predominantly made up of different variations of red,white,blue, green and gold. This colour scheme was choosen because they are the from the 4 house colours of the Harry Potter book series.Colours was only taken from 3 out of the 4 House colours from Harry Potter because Yellow and Brown will ruin the design flow of the whole quiz game. The other colour that was also used was Orange.
 
 | Color                    | Hex                                                                |
 | ------------------------ | ------------------------------------------------------------------ |
@@ -81,6 +81,7 @@ The Roboto font is the only font that is being used throughout the whole game ap
 Through out the quiz game application 3 Harry Potter themed imagery was used. They were chosen to envoke an nostalgic response for different generations of Harry Potter fans. When users see the images from Harry Potter they will instinctively know that they will be playing a Harry Potter quiz game without pressing play.
 
 + ## Wireframes
+Wireframes were made for both desktop and mobile design. The structure and layout was decided in these wireframes, which can be found here:
 
   * Desktop
   [View Desktop Wireframes](assets/images/desktop-wireframes.jpg)
