@@ -268,6 +268,7 @@ The Java Script has also passed the JShint web link with no errors. Only 6 warni
   [View ](https://www.youtube.com/watch?v=OkJYtw1mPeU&list=PL96xVQjLpfmVlCPuER2Ip1FTiuVpHQvYM&index=43)
 
 
+* **Imagery**
 ---
 ## Acknowledgement
 * My Mentor Antonio Rodriguez, who has supported me through the project with lots of valuable advice, help and encouragement.
