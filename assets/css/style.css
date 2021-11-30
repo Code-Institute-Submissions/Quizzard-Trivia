@@ -228,15 +228,6 @@ input[type=radio]:checked ~ .option {
     text-align: center;
 }
 
-.red p {
-    color: red;
-}
-
-.green p {
-    color: green;
-}
-
-
 
 
 .rating{
@@ -251,6 +242,9 @@ input[type=radio]:checked ~ .option {
 .rating p{
     color: #FFFFFF;
     text-align: center;
+}
+.rating .red p {
+    color: red;
 }
 
 .modal-button-container{
