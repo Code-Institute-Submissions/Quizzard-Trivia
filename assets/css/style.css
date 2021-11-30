@@ -112,8 +112,8 @@ span label{
     justify-content: center;
     cursor: pointer;
     transition: transform 0.3s;
-    font-weight: 500;
-    font-size: 14px;
+    font-weight: 600;
+    font-size: 15px;
     color: rgb(22, 22, 22);
     
 }
