@@ -124,7 +124,13 @@ Wireframes were made for both desktop and mobile design. The structure and layou
 
   ![Correct Answer Color](assets/images/correct-answer.JPG)
 
-  * When the player selects an incorrect answer for the question, the option box will be highlighted in Red and the correct answer will also be highlighted when they press next question button.
+  * When the player selects an incorrect answer for the question, the option box will be highlighted in Red and the correct answer will also be highlighted in Green when they press next question button.
+
+  ![Incorrect Answer Color](assets/images/incorrect-answer.JPG)
+
+  * Players must complete all the questions on the quiz as they can not skip or not choose an answer. When they try by clicking "Next Question" a warning box will pop up telling the player that they must choose an answer before they can proceed to the next question.
+
+  ![Warning Pop Up](assets/images/warning-pop-up.JPG)
 
   
 
