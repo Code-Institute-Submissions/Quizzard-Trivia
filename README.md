@@ -112,6 +112,24 @@ Wireframes were made for both desktop and mobile design. The structure and layou
   
 
 * **Quiz Game Page**
+  * The player can see which question that they are on and how many questions that they will be playing.
+
+  ![Question Display](assets/images/question-display.JPG)
+
+  * The players scores will be displayed on the top left of the quiz game area. Each time the player gets a question correct the scores will be increament by one point.
+
+  ![Scores Display](assets/images/score-display.JPG)
+
+  * When the player selects a correct answer for the question, the option box will be highlighted in Green when they press next question button.
+
+  ![Correct Answer Color](assets/images/correct-answer.JPG)
+
+  * When the player selects an incorrect answer for the question, the option box will be highlighted in Red and the correct answer will also be highlighted when they press next question button.
+
+  
+
+
+
 
 
   
