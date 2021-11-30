@@ -186,11 +186,14 @@ Wireframes were made for both desktop and mobile design. The structure and layou
 
 ---
 # Testing
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project. During the validation process I only incured 1 red error on W3C Markup and zero errors or warnings on W3C CSS.
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project. During the validation process only 1 red error on W3C Markup incured and zero errors or warnings on W3C CSS. They have all been recified and fixed during the validation process.
 * **Error**
   * I fixed this error by deleting the button element and using the anchor tag as a button.
   [View Error](assets/images/error.jpg)
 
+The Java Script has also passed the JShint web link with no errors. Only 6 warnings has incurred when put through the process. The warnings that has incurred has something to do with the ES6 version of Java Script. Everything on the configuration panel has been ticked but the warnings still pop up.
+
+![Java Script Warnings](assets/images/java-script-warning.JPG)
   
 
   
