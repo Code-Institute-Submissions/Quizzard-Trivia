@@ -184,6 +184,10 @@ Wireframes were made for both desktop and mobile design. The structure and layou
 8. Stack Overflow was used to research on how to create certain functions for my game application
 [Stack Overflow ](https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array)
 
+---
+# Testing
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project. During the validation process I only incured 1 red error on W3C Markup and zero errors or warnings on W3C CSS.
+
   
 
   
