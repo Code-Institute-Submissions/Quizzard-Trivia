@@ -578,16 +578,10 @@ p {
     }
     header h1 {
         color: white;
-        padding-left: 10px;
+        padding-left: 30px;
         
     }
-    .fa-times:before  {
-        position: absolute;
-        margin-top: 15px;
-        color: white;
-        font-size: 12px;
-        cursor: pointer;
-    }
+    
 
 
 }
