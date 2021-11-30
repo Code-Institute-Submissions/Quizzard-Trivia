@@ -120,11 +120,16 @@ Wireframes were made for both desktop and mobile design. The structure and layou
 
   ![Scores Display](assets/images/score-display.JPG)
 
+
+  * When the player chooses an answer before they submit it by clicking the "next Question" button, the choosen answer will be highlighted in Gold first.
+
+  ![Selected Answer](assets/images/selected-answer.JPG)
+
   * When the player selects a correct answer for the question, the option box will be highlighted in Green when they press next question button.
+  
+ ![Correct Answer Color](assets/images/correct-answer.JPG)
 
-  ![Correct Answer Color](assets/images/correct-answer.JPG)
-
-  * When the player selects an incorrect answer for the question, the option box will be highlighted in Red and the correct answer will also be highlighted in Green when they press next question button.
+  * When the player selects an incorrect answer for the question, the option box will be highlighted in Red and the correct answer will also be highlighted in Green straight away for the player when they press next question button.
 
   ![Incorrect Answer Color](assets/images/incorrect-answer.JPG)
 
