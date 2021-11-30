@@ -165,6 +165,25 @@ Wireframes were made for both desktop and mobile design. The structure and layou
 [View Information ](https://en.wikipedia.org/wiki/CSS)
 + Java Script
 [View Information ](https://en.wikipedia.org/wiki/JavaScript)
+
+---
+# Frameworks & Programs Used
+1. Google Fonts was used to import the Poppins and fall back font Sans Serif. Poppins font was only used through out the web based application. [Google Fonts ](https://fonts.google.com/?query=roboto&preview.text=Paw-fect%20Walks&preview.text_type=custom)
+2. Font Awesome was only used on the game instruction box for the close button
+[Font Awesome ](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free)
+3. Youtube tutorials on learning how to use Rem for CSS
+[YouTube ](https://www.youtube.com/results?search_query=flex+boxes+css)
+4. Windows 10 Paint was used on resizing my images though out my game application.
+[Window 10 Paint](assets/images/paint.JPG)
+5. Balsamiq was used to create the wireframes during the design process.
+[Balsamiq ](https://balsamiq.com/wireframes/?gclid=CjwKCAjw2bmLBhBREiwAZ6ugo1QxIXgRy5ZEQs1vd9gCXmKeC4o2Mzk23m-ooHCIrcS84BxMiZbe5RoCcEIQAvD_BwE)
+6. Git was used for my project workspace.All the codes are saved on Git. All my codes was committed on Git and pushed to Github.
+[Git ](https://en.wikipedia.org/wiki/Git)
+7. GitHub was used to store the codes from my project after being pushed from Git.
+[GitHub ](https://en.wikipedia.org/wiki/GitHub)
+8. Stack Overflow was used to research on how to create certain functions for my game application
+[Stack Overflow ](https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array)
+
   
 
   
