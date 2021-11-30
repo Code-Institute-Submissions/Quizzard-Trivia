@@ -168,7 +168,7 @@ Wireframes were made for both desktop and mobile design. The structure and layou
 
 ---
 # Frameworks & Programs Used
-1. Google Fonts was used to import the Poppins and fall back font Sans Serif. Poppins font was only used through out the web based application. [Google Fonts ](https://fonts.google.com/?query=roboto&preview.text=Paw-fect%20Walks&preview.text_type=custom)
+1. Google Fonts was used to import the Poppins and fall back font Sans Serif. Poppins font was only used through out the web based application. [Google Fonts ](https://fonts.google.com/specimen/Poppins?query=popp)
 2. Font Awesome was only used on the game instruction box for the close button
 [Font Awesome ](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free)
 3. Youtube tutorials on learning how to use em & rem for CSS
