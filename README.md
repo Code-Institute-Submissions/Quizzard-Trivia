@@ -154,6 +154,17 @@ Wireframes were made for both desktop and mobile design. The structure and layou
   * A username feature will be added so that the quiz game will feel more personalised to the player.
   * A high Score table will be added so that players can compete to try and beat each other scores.
   * A timer function will be added to the quiz to only give the player X amount of time to do each question. This will give the player more pressure and less time to think about their answers which makes it even more competive and exciting.
+
+---
+# Technologies Used
+## Languages used
+
++ HTML5
+[View Information ](https://en.wikipedia.org/wiki/HTML5)
++ CSS
+[View Information ](https://en.wikipedia.org/wiki/CSS)
++ Java Script
+[View Information ](https://en.wikipedia.org/wiki/JavaScript)
   
 
   
