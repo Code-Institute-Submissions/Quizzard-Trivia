@@ -116,10 +116,13 @@ Wireframes were made for both desktop and mobile design. The structure and layou
 
   ![Question Display](assets/images/question-display.JPG)
 
+  * Centrally located on the game quiz area is where a set of 30 randomised questions will be displayed for the player.
+
+  * underneath the question display the associated  answer options will be shown for the player. They will have one in four answer options to choose from.
+
   * The players scores will be displayed on the top left of the quiz game area. Each time the player gets a question correct the scores will be increament by one point.
 
   ![Scores Display](assets/images/score-display.JPG)
-
 
   * When the player chooses an answer before they submit it by clicking the "next Question" button, the choosen answer will be highlighted in Gold first.
 
@@ -129,17 +132,19 @@ Wireframes were made for both desktop and mobile design. The structure and layou
   
  ![Correct Answer Color](assets/images/correct-answer.JPG)
 
-  * When the player selects an incorrect answer for the question, the option box will be highlighted in Red and the correct answer will also be highlighted in Green straight away for the player when they press next question button.
+   * When the player selects an incorrect answer for the question, the option box will be highlighted in Red and the correct answer will also be highlighted in Green straight away for the player when they press next question button.
 
   ![Incorrect Answer Color](assets/images/incorrect-answer.JPG)
 
-  * Players must complete all the questions on the quiz as they can not skip or not choose an answer. When they try by clicking "Next Question" a warning box will pop up telling the player that they must choose an answer before they can proceed to the next question.
+    * Players must complete all the questions on the quiz as they can not skip or not choose an answer. When they try by clicking "Next Question" a warning box will pop up telling the player that they must choose an answer before they can proceed to the next question.
 
   ![Warning Pop Up](assets/images/warning-pop-up.JPG)
 
   * When the player completes the quiz a results box will pop up explaining how many questions that they got right or wrong. They will also be graded by a percentage score and with a comment.
 
   ![Results Box](assets/images/results-box.JPG)
+
+* **Features left to implement**
 
   
 
