@@ -219,6 +219,17 @@ The Java Script has also passed the JShint web link with no errors. Only 6 warni
 
 * ## Lighthouse
    * The site was tested for both desktop and mobile. The scores are given via Google Lighthouse report. Multiple tests was conducted, ranging from Performance to SEO levels.
++ **Desktop**
+  * [Lighthouse scores for index.html ](assets/images/desktop-index.JPG)
+  * [Lighthouse scores for quiz.html ](assets/images/desktop-quiz.JPG)
+
+
+* ## Responsiveness
+  The site was tested with the Chrome Dev tool and the website Responsinator to determine how well it would look on various tablet and mobile devices.
+  * Chrome Dev Tool
+  [View ](assets/images/dev-tool.jpg) 
+  * Responsinator
+  [View ](https://www.responsinator.com/?url=https%3A%2F%2Fjoycey83.github.io%2FQuizzard-Trivia%2F)
 
 
 
