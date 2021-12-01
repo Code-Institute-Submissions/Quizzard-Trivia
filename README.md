@@ -112,31 +112,31 @@ Wireframes were made for both desktop and mobile design. The structure and layou
   
 
 * **Quiz Game Page**
-  * The player can see which question that they are on and how many questions that they will be playing.
+  * The user can see which question that they are on and how many questions that they will be playing till the quiz ends.
 
   ![Question Display](assets/images/question-display.JPG)
 
-  * Centrally located on the game quiz area is where a set of 30 randomised questions will be displayed for the player.
+  * Centrally located on the game quiz area is where a set of 30 randomised questions will be displayed for the user.
 
   ![Quiz Questions](assets/images/quiz-questions.JPG)
 
-  * underneath the question display the associated  answer options will be shown for the player. They will have one in four answer options to choose from.
+  * underneath the question display the associated  answer options will be shown for the user. They will have one in four answer options to choose from.
 
   ![Option Boxes](assets/images/option-boxes.JPG)
 
-  * The players scores will be displayed on the top left of the quiz game area. Each time the player gets a question correct the scores will be increament by one point.
+  * The players scores will be displayed on the top left of the quiz game area. Each time the user gets a question correct the scores will be increament by one point.
 
   ![Scores Display](assets/images/score-display.JPG)
 
-  * When the player chooses an answer before they submit it by clicking the "next Question" button, the choosen answer will be highlighted in Gold first.
+  * When the user chooses an answer before they submit it by clicking the "next Question" button, the choosen answer will be highlighted in Gold first.
 
   ![Selected Answer](assets/images/selected-answer.JPG)
 
-  * When the player selects a correct answer for the question, the option box will be highlighted in Green when they press next question button.
+  * When the user selects a correct answer for the question, the option box will be highlighted in Green when they press next question button.
   
  ![Correct Answer Color](assets/images/correct-answer.JPG)
 
-  * When the player selects an incorrect answer for the question, the option box will be highlighted in Red and the correct answer will also be highlighted in Green straight away for the player when they press next question button.
+  * When the user selects an incorrect answer for the question, the option box will be highlighted in Red and the correct answer will also be highlighted in Green straight away for the player when they press next question button.
 
   ![Incorrect Answer Color](assets/images/incorrect-answer.JPG)
 
@@ -144,7 +144,7 @@ Wireframes were made for both desktop and mobile design. The structure and layou
 
   ![Warning Pop Up](assets/images/warning-pop-up.JPG)
 
-  * When the player completes the quiz a results box will pop up explaining how many questions that they got right or wrong. They will also be graded by a percentage score and with a comment.
+  * When the user completes the quiz a results box will pop up explaining how many questions that they got right or wrong. They will also be graded by a percentage score and with a comment.
 
   ![Results Box](assets/images/results-box.JPG)
 

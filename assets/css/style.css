@@ -119,8 +119,6 @@ span label{
 }
 /*The styling for when the player hoover over the 4 option answer boxes it will turn  blue*/
 span label:hover{
-    -ms-transform: scale(1.12);
-    -webkit-transform: scale(1.12);
     transform: scale(1.12);
     color:#333399;
 }
