@@ -6,7 +6,7 @@ let questions = [
     optionB: "A Romanian Longhorn",
     optionC: "A Norwegian Ridgeback",
     optionD: "An Antipodean Opaleye",
-    correctOption: "optionC" //Q1
+    correctOption: "optionC" //Q1   //All 50 questions and answers are taken from various online sources materials
   },
   
   {
