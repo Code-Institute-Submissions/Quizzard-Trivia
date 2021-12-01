@@ -266,7 +266,12 @@ The Java Script has also passed the JShint web link with no errors. Only 6 warni
   * For my instruction pop up box for my quiz game, I have taken inspiration from a YouTuber channel called Coding Nepal.
   Coding referenced on this video was partially used but amended to my own needs for my own application.
   [View ](https://www.youtube.com/watch?v=OkJYtw1mPeU&list=PL96xVQjLpfmVlCPuER2Ip1FTiuVpHQvYM&index=43)
-
+  * For my quiz game application the Java Script, I have taken inspiration from a YouTuber channel called Keep Coding.
+  Coding referenced on this video was very partially used. A lot of the code was amended to my own needs for my own application.
+   [View ](https://www.youtube.com/watch?v=MxrGPP4F8Sc&list=PL96xVQjLpfmVlCPuER2Ip1FTiuVpHQvYM&index=6&t=190s)
+  * For my quiz game in order to get a random question from the array, I used the Math.random & Math.floor function. I got a better understanding of this function from a YouTube Tutorial video. I have taken inspiration from a YouTuber channel called dcode.
+  [View ](https://www.youtube.com/watch?v=1Rq_LrpcgIM)
+  * On my CSS file I have started to incorporate using rem as oppose to just using px & %. 
 
 * **Imagery** 
 * **Content**
