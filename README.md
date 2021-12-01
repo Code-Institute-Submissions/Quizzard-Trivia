@@ -278,6 +278,13 @@ The Java Script has also passed the JShint web link with no errors. Only 6 warni
   * All the imagery that are being used for this game application are taken from a desktop wallpaper website called Wallpaper Cave.
   [View ](https://wallpapercave.com/harry-potter-hd-wallpapers)
 * **Content**
+  * All the content for the Instruction box for the quiz game was written by me.
+  * All the content for the quiz questions and answers were taken from various quiz game websites that I have found on Google.
+  * [View Wizzarding World ](https://www.wizardingworld.com/quiz)
+  * [View Kidadl (book questions) ](https://kidadl.com/articles/harry-potter-book-trivia-questions-and-answers-for-every-muggle)
+  * [View Kidadl (hard questions) ](https://kidadl.com/articles/hard-harry-potter-trivia-questions-and-answers-are-you-a-true-potterhead)
+  * [Insider (hard questions) ](https://www.insider.com/harry-potter-trivia-2016-11)
+  * [The big quiz thing ](https://bigquizthing.com/trivia-questions-ans/harry-potter-trivia-questions-and-answers/)
 ---
 ## Acknowledgement
 * My Mentor Antonio Rodriguez, who has supported me through the project with lots of valuable advice, help and encouragement.
