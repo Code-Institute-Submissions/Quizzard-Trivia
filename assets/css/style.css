@@ -101,6 +101,10 @@ section {
     overflow: hidden;
     box-shadow: 10px 10px 10px;
 }
+.game-options-box span label {
+    font-size: 2rem;
+    text-align: center;
+}
 
 button {
   box-shadow: 10px 10px 10px;
