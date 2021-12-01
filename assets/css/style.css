@@ -51,7 +51,7 @@ section {
     border-radius: 20px;
     opacity: 0.5;
 }
-#display-question p {
+#display-question {
     font-size: 3rem;
 }
 /*CSS styling for the game question, question box*/
