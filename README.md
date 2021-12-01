@@ -285,6 +285,12 @@ The Java Script has also passed the JShint web link with no errors. Only 6 warni
   * [View Kidadl (hard questions) ](https://kidadl.com/articles/hard-harry-potter-trivia-questions-and-answers-are-you-a-true-potterhead)
   * [Insider (hard questions) ](https://www.insider.com/harry-potter-trivia-2016-11)
   * [The big quiz thing ](https://bigquizthing.com/trivia-questions-ans/harry-potter-trivia-questions-and-answers/)
+
+* **Other Resources**
+  * I have crossed referenced all the questions and answers for my quiz on Harry Potter Fan page website. I need to make sure that all the answers to the questions are correct and not misleading or totally wrong.
+  [View ](https://harrypotter.fandom.com/wiki/Main_Page)
+  * My README file that I have written are based on the Code Institute Sample README file. Some of the headings are taken from it and some of the content are based on it as well.
+   [View ](https://github.com/Code-Institute-Solutions/SampleREADME)
 ---
 ## Acknowledgement
 * My Mentor Antonio Rodriguez, who has supported me through the project with lots of valuable advice, help and encouragement.
