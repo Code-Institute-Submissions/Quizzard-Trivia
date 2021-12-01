@@ -169,7 +169,6 @@ input[type=radio]:checked ~ .option {
     flex-direction: column;
     align-items: center;
     justify-content: center; 
-    -webkit-animation: fadeIn 1.2s ease-in-out;
     animation: fadeIn 1.2s ease-in-out;
 }
 
