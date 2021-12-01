@@ -329,7 +329,7 @@ p.green {
         margin-top: 4px;
     }
     .game-options-box span label{
-        font-size: 1rem;
+        font-size: 0.5rem;
     }
     button {
       margin-top: 4px;
@@ -376,8 +376,12 @@ p.green {
     }
 
     .game-question-box p{
-        font-size: 0.7rem;
+        font-size: 0.5rem;
      }
+    
+     .game-options-box span label{
+        font-size: 0.5rem;
+    }
 
     .game-options-box span{
         width: 90%;
@@ -388,7 +392,7 @@ p.green {
         height: 25rem;
     }
     .choice-content-box h1{
-        font-size: 0.7rem;
+        font-size: 1rem;
     }
 
     
@@ -413,7 +417,7 @@ p.green {
      }
  
      .game-question-box p{
-         font-size: 0.8rem;
+         font-size: 0.6rem;
       }
  
      .game-options-box span{
