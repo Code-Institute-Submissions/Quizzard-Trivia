@@ -193,7 +193,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 * **Warnings**
   * I recified the 13 warning by deleting the webkit extentions as they were not needed and I had to delete the imported Google fonts link for the warning on the CSS file to disappear.
-  [View Error](assets/images/CSS-warning.JPG)
+  [View Warning](assets/images/CSS-warning.JPG)
 
 After recitying all the errors on my HTML page they are now free from any errors. The single warning of the empty heading on my quiz.html page can not be rectified as I needed the heading so that I can create an id class for my Java Script.
 [View Warning](assets/images/warning.JPG)
