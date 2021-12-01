@@ -363,7 +363,7 @@ p.green {
 
 
 
-/* Media queries for my quiz from 351px up to large mobile and laptop devices up to 1600px*/
+/* Media queries for my quiz game from 351px up to 480px for small to medium devices*/
 
 @media(min-width : 351px) and (max-width : 480px){
    .game-quiz-box{
@@ -398,6 +398,7 @@ p.green {
 
 }
 
+/* Media queries for my quiz from 481px up to 768px for meduim to large devices like tablets & desktop*/
 
 @media(min-width : 481px) and (max-width : 768px){
 
@@ -567,7 +568,7 @@ p {
 }
 /*CSS styling of my Quizzard Trivia Quiz home page & instructions ends here*/
 
-/*Media queries for my Quizzard home page*/
+/*Media queries for my Quizzard home page for small devices*/
 
 @media(min-width : 300px) and (max-width : 350px){
     .content {
@@ -588,7 +589,7 @@ p {
 
 
 }
-
+/*Media queries for my Quizzard home page for small devices, medium and large devices*/
 @media(min-width : 351px) and (max-width : 800px) {
 
     .content {
