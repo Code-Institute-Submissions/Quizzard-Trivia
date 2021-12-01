@@ -52,7 +52,8 @@ section {
     opacity: 0.5;
 }
 #display-question {
-    font-size: 3rem;
+    font-size: 16px;
+    font-weight: 500;
 }
 /*CSS styling for the game question, question box*/
 .game-info-box{
