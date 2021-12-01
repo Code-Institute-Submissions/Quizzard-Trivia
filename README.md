@@ -192,10 +192,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   [View Error](assets/images/error.jpg)
 
 * **Warnings**
-  * I recified the 13 warning by deleting the webkit extentions as they were not needed and I had to delete the imported Google fonts link for the warning on the CSS file to disappear.
+  * I recified the 13 warning by deleting the webkit extentions as they were not needed.
   [View Warning](assets/images/CSS-warning.JPG)
 
-After recitying all the errors on my HTML page they are now free from any errors. The single warning of the empty heading on my quiz.html page can not be rectified as I needed the heading so that I can create an id class for my Java Script.
+After recitying all the errors on my HTML page they are now free from any errors. The single warning of the empty heading on my quiz.html page was also rectified by changing the H1 Heading to a paragraph heading.
 [View Warning](assets/images/warning.JPG)
 
 
@@ -208,7 +208,7 @@ The Java Script has also passed the JShint web link with no errors. Only 6 warni
   [W3C CSS Validator Results ](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjoycey83.github.io%2FQuizzard-Trivia%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 + ## HTML
-  * No more errors were found when passing all the HTML codes through the W3C Markup Validator. Only 1 warning was found on both of the HTML pages.
+  * No more errors or warnings were found when passing all the HTML codes through the W3C Markup Validator.
   + [W3C Markup Validator index.html Results ](assets/images/validator-index.JPG)
   + [W3C Markup Validator quiz.html Results ](assets/images/validator-quiz.JPG)
 
