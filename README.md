@@ -226,7 +226,7 @@ The Java Script has also passed the JShint web link with no errors. Only 6 warni
 + **Mobile**
   * [Lighthouse scores for index.html ](assets/images/lighthouse-index.JPG)
   * [Lighthouse scores for quiz.html ](assets/images/lighthouse-quiz.JPG)
-+ For all of the pages the scores are 100 for best practice, Accessibility and SEO. Performances on the 
++ For all of the pages the scores are 100 for best practice, Accessibility and SEO. Performances on the desktop and mobile are of near perfect score of 97 to 99% scores.
 
 
 * ## Responsiveness
