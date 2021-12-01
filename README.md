@@ -271,9 +271,12 @@ The Java Script has also passed the JShint web link with no errors. Only 6 warni
    [View ](https://www.youtube.com/watch?v=MxrGPP4F8Sc&list=PL96xVQjLpfmVlCPuER2Ip1FTiuVpHQvYM&index=6&t=190s)
   * For my quiz game in order to get a random question from the array, I used the Math.random & Math.floor function. I got a better understanding of this function from a YouTube Tutorial video. I have taken inspiration from a YouTuber channel called dcode.
   [View ](https://www.youtube.com/watch?v=1Rq_LrpcgIM)
-  * On my CSS file I have started to incorporate using rem as oppose to just using px & %. 
+  * On my CSS file I have started to incorporate using rem as oppose to just using px & %. I have learnt to do this from a Youtuber called Kevin Powell.
+  [View ](https://www.youtube.com/watch?v=_-aDOAMmDHI&t=10s)
 
 * **Imagery** 
+  * All the imagery that are being used for this game application are taken from a desktop wallpaper website called Wallpaper Cave.
+  [View ](https://wallpapercave.com/harry-potter-hd-wallpapers)
 * **Content**
 ---
 ## Acknowledgement
