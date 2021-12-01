@@ -292,11 +292,15 @@ The Java Script has also passed the JShint web link with no errors. Only 6 warni
   [View ](https://harrypotter.fandom.com/wiki/Main_Page)
   * My README file that I have written are based on the Code Institute Sample README file. Some of the headings are taken from it and some of the content are based on it as well.
    [View ](https://github.com/Code-Institute-Solutions/SampleREADME)
+   * My current README file is also based on my previous README file that I have produced for my first project Paw-fect Walks.
+   [View ](https://github.com/Joycey83/Paw-fect-Walks)
+   
 ---
 ## Acknowledgement
 * My Mentor Antonio Rodriguez, who has supported me through the project with lots of valuable advice, help and encouragement.
   * I got a lot of help from my fellow Slackers from the Slack community.
   * The Tutors at Code Institute who gave me the right guidence when I was stuck through out my project.
+  
   
 
 
