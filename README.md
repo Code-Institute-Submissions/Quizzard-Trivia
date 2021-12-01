@@ -186,13 +186,13 @@ Wireframes were made for both desktop and mobile design. The structure and layou
 
 ---
 # Testing
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project. During the validation process only 1 red error and 1 warning on the W3C Markup incured. Zero errors with 13 warnings on W3C CSS. Only the W3C Markup has been recified and fixed during the validation process. As I needed to use the webkit extensions on my CSS
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project. During the validation process only 1 red error and 1 warning on the W3C Markup incured. Zero errors with 13 warnings on W3C CSS. 
 * **Error**
   * I fixed this error by deleting the button element and using the anchor tag as a button.
   [View Error](assets/images/error.jpg)
 
 * **Warnings**
-  * I left the 13 warnings as I am using the webkit extensions for my CSS.
+  * I recified the 13 warning by deleting the webkit extentions as they were not needed and I had to delete the imported Google fonts link for the warning on the CSS file to disappear
   [View Warnings ](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjoycey83.github.io%2FQuizzard-Trivia%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 After recitying all the errors on my HTML page they are now free from any errors. The single warning of the empty heading on my quiz.html page can not be rectified as I needed the heading so that I can create an id class for my Java Script.
@@ -204,7 +204,7 @@ The Java Script has also passed the JShint web link with no errors. Only 6 warni
 ![Java Script Warnings](assets/images/java-script-warning.JPG)
 
 + ## CSS 
-  * No errors were found when passing all the CSS codes through the Jigsaw W3C CSS Validator. Warnings are mentioned above already.
+  * No more errors or warnings were found when passing all the CSS codes through the Jigsaw W3C CSS Validator.
   [W3C CSS Validator Results ](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjoycey83.github.io%2FQuizzard-Trivia%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 + ## HTML
