@@ -1,5 +1,16 @@
 // very partial JS code reference from YouTuber Keep Coding
 
+/* Wait for page load & eventlistners*/
+window.addEventListener('load', function () {
+    const closeModalButton = this.document.getElementById('closeModal');
+    const nextQuestionButton = this.document.getElementById('nextQuestion');
+    const closeScoreButton = this.document.getElementById('closeScore');
+    closeModalButton.addEventListener('click', closeOptionModal);
+    nextQuestionButton.addEventListener('click', handleNextQuestion);
+    closeScoreButton.addEventListener('click', closeScoreModal);
+    NextQuestion(0);
+});
+
 let shuffledQuestions = []; //empty array to hold shuffled selected questions
 
 function handleQuestions() {
@@ -159,13 +170,3 @@ function closeOptionModal() {
     document.getElementById('option-modal').style.display = "none";
 }
 
-/* Wait for page load & eventlistners*/
-window.addEventListener('load', function () {
-    const closeModalButton = this.document.getElementById('closeModal');
-    const nextQuestionButton = this.document.getElementById('nextQuestion');
-    const closeScoreButton = this.document.getElementById('closeScore');
-    closeModalButton.addEventListener('click', closeOptionModal);
-    nextQuestionButton.addEventListener('click', handleNextQuestion);
-    closeScoreButton.addEventListener('click', closeScoreModal);
-    NextQuestion(0);
-});
