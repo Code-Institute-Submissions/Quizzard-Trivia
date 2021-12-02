@@ -238,6 +238,9 @@ The Java Script has also passed the JShint web link with no errors. Only 6 warni
 
 * ## Compatibility
   * The site has been checked for compatibility on Chrome, Edge and Firefox. The site was not tested on Safari browser as I do not own any Apple devices or do I know any one who does.
+  * [Compatibility-Chrome ](assets/images/compatibility-chrome.JPG)
+  * [Compatibility-Edge   ](assets/images/compatibility-edge.JPG)
+  * [Compatibility-firefox](assets/images/compatibility-firefox.JPG)
 * ## Bugs
   * There are no known bugs that are present or that I can find on my application.
 
